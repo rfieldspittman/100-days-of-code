@@ -16,11 +16,13 @@ none
 ### Day 2: January 2, 2020 
 
 **Today's Progress** 
+Finished "Applied visual design" section and moved on to "Applied Accessibility Challenges".
 
 **Thoughts** 
+Terms learned: Animation-iteration-count, animation-duration, animation-timing-function, cubic-bezier, alt attributes for images
 
 **Link to work**
-
+none
 ### Day 3: January 3, 2020 
 
 **Today's Progress** 
@@ -85,6 +87,14 @@ none
 
 **Link to work**
 
+### Day 11: January 11, 2020 
+
+**Today's Progress** 
+
+**Thoughts** 
+
+**Link to work**
+
 ### Day 11: January 12, 2020 
 
 **Today's Progress** 
@@ -142,6 +152,654 @@ none
 **Link to work**
 
 ### Day 19: January 19, 2020 
+
+**Today's Progress** 
+
+**Thoughts** 
+
+**Link to work**
+
+### Day 20: January 20, 2020 
+
+**Today's Progress** 
+
+**Thoughts** 
+
+**Link to work**
+
+### Day 21: January 21, 2020 
+
+**Today's Progress** 
+
+**Thoughts** 
+
+**Link to work**
+
+### Day 22: January 22, 2020 
+
+**Today's Progress** 
+
+**Thoughts** 
+
+**Link to work**
+
+### Day 23: January 23, 2020 
+
+**Today's Progress** 
+
+**Thoughts** 
+
+**Link to work**
+
+### Day 24: January 24, 2020 
+
+**Today's Progress** 
+
+**Thoughts** 
+
+**Link to work**
+
+### Day 25: January 25, 2020 
+
+**Today's Progress** 
+
+**Thoughts** 
+
+**Link to work**
+
+### Day 26: January 26, 2020 
+
+**Today's Progress** 
+
+**Thoughts** 
+
+**Link to work**
+
+### Day 27: January 27, 2020 
+
+**Today's Progress** 
+
+**Thoughts** 
+
+**Link to work**
+
+### Day 28: January 28, 2020 
+
+**Today's Progress** 
+
+**Thoughts** 
+
+**Link to work**
+
+### Day 29: January 29, 2020 
+
+**Today's Progress** 
+
+**Thoughts** 
+
+**Link to work**
+
+### Day 30: January 30, 2020 
+
+**Today's Progress** 
+
+**Thoughts** 
+
+**Link to work**
+
+### Day 31: January 31, 2020 
+
+**Today's Progress** 
+
+**Thoughts** 
+
+**Link to work**
+
+### Day 32: February 1, 2020 
+
+**Today's Progress** 
+
+**Thoughts** 
+
+**Link to work**
+
+### Day 33: February 2, 2020 
+
+**Today's Progress** 
+
+**Thoughts** 
+
+**Link to work**
+
+### Day 34: February 3, 2020 
+
+**Today's Progress** 
+
+**Thoughts** 
+
+**Link to work**
+
+### Day 35: February 4, 2020 
+
+**Today's Progress** 
+
+**Thoughts** 
+
+**Link to work**
+
+### Day 36: February 5, 2020 
+
+**Today's Progress** 
+
+**Thoughts** 
+
+**Link to work**
+
+### Day 37: February 6, 2020 
+
+**Today's Progress** 
+
+**Thoughts** 
+
+**Link to work**
+
+### Day 38: February 7, 2020 
+
+**Today's Progress** 
+
+**Thoughts** 
+
+**Link to work**
+
+### Day 39: February 8, 2020 
+
+**Today's Progress** 
+
+**Thoughts** 
+
+**Link to work**
+
+### Day 40: February 9, 2020 
+
+**Today's Progress** 
+
+**Thoughts** 
+
+**Link to work**
+
+### Day 41: February 10, 2020 
+
+**Today's Progress** 
+
+**Thoughts** 
+
+**Link to work**
+
+### Day 42: February 11, 2020 
+
+**Today's Progress** 
+
+**Thoughts** 
+
+**Link to work**
+
+### Day 43: February 12, 2020 
+
+**Today's Progress** 
+
+**Thoughts** 
+
+**Link to work**
+
+### Day 44: February 13, 2020 
+
+**Today's Progress** 
+
+**Thoughts** 
+
+**Link to work**
+
+### Day 45: February 14, 2020 
+
+**Today's Progress** 
+
+**Thoughts** 
+
+**Link to work**
+
+### Day 46: February 15, 2020 
+
+**Today's Progress** 
+
+**Thoughts** 
+
+**Link to work**
+
+### Day 47: February 16, 2020 
+
+**Today's Progress** 
+
+**Thoughts** 
+
+**Link to work**
+
+### Day 48: February 17, 2020 
+
+**Today's Progress** 
+
+**Thoughts** 
+
+**Link to work**
+
+### Day 49: February 18, 2020 
+
+**Today's Progress** 
+
+**Thoughts** 
+
+**Link to work**
+
+### Day 50: February 19, 2020 
+
+**Today's Progress** 
+
+**Thoughts** 
+
+**Link to work**
+
+### Day 51: February 20, 2020 
+
+**Today's Progress** 
+
+**Thoughts** 
+
+**Link to work**
+
+### Day 52: February 21, 2020 
+
+**Today's Progress** 
+
+**Thoughts** 
+
+**Link to work**
+
+### Day 53: February 22, 2020 
+
+**Today's Progress** 
+
+**Thoughts** 
+
+**Link to work**
+
+### Day 54: February 23, 2020 
+
+**Today's Progress** 
+
+**Thoughts** 
+
+**Link to work**
+
+### Day 55: February 24, 2020 
+
+**Today's Progress** 
+
+**Thoughts** 
+
+**Link to work**
+
+### Day 56: February 25, 2020 
+
+**Today's Progress** 
+
+**Thoughts** 
+
+**Link to work**
+
+### Day 57: February 26, 2020 
+
+**Today's Progress** 
+
+**Thoughts** 
+
+**Link to work**
+
+### Day 58: February 27, 2020 
+
+**Today's Progress** 
+
+**Thoughts** 
+
+**Link to work**
+
+### Day 59: February 28, 2020 
+
+**Today's Progress** 
+
+**Thoughts** 
+
+**Link to work**
+
+### Day 60: February 29, 2020 
+
+**Today's Progress** 
+
+**Thoughts** 
+
+**Link to work**
+
+### Day 61: March 1, 2020 
+
+**Today's Progress** 
+
+**Thoughts** 
+
+**Link to work**
+
+### Day 62: March 2, 2020 
+
+**Today's Progress** 
+
+**Thoughts** 
+
+**Link to work**
+
+### Day 63: March 3, 2020 
+
+**Today's Progress** 
+
+**Thoughts** 
+
+**Link to work**
+
+### Day 64: March 4, 2020 
+
+**Today's Progress** 
+
+**Thoughts** 
+
+**Link to work**
+
+### Day 65: March 5, 2020 
+
+**Today's Progress** 
+
+**Thoughts** 
+
+**Link to work**
+
+### Day 66: March 6, 2020 
+
+**Today's Progress** 
+
+**Thoughts** 
+
+**Link to work**
+
+### Day 67: March 7, 2020 
+
+**Today's Progress** 
+
+**Thoughts** 
+
+**Link to work**
+
+### Day 68: March 8, 2020 
+
+**Today's Progress** 
+
+**Thoughts** 
+
+**Link to work**
+
+### Day 69: March 9, 2020 
+
+**Today's Progress** 
+
+**Thoughts** 
+
+**Link to work**
+
+### Day 70: March 10, 2020 
+
+**Today's Progress** 
+
+**Thoughts** 
+
+**Link to work**
+
+### Day 71: March 11, 2020 
+
+**Today's Progress** 
+
+**Thoughts** 
+
+**Link to work**
+
+### Day 72: March 12, 2020 
+
+**Today's Progress** 
+
+**Thoughts** 
+
+**Link to work**
+
+### Day 73: March 13, 2020 
+
+**Today's Progress** 
+
+**Thoughts** 
+
+**Link to work**
+
+### Day 74: March 14, 2020 
+
+**Today's Progress** 
+
+**Thoughts** 
+
+**Link to work**
+
+### Day 75: March 15, 2020 
+
+**Today's Progress** 
+
+**Thoughts** 
+
+**Link to work**
+
+### Day 76: March 16, 2020 
+
+**Today's Progress** 
+
+**Thoughts** 
+
+**Link to work**
+
+### Day 77: March 17, 2020 
+
+**Today's Progress** 
+
+**Thoughts** 
+
+**Link to work**
+
+### Day 78: March 18, 2020 
+
+**Today's Progress** 
+
+**Thoughts** 
+
+**Link to work**
+
+### Day 79: March 19, 2020 
+
+**Today's Progress** 
+
+**Thoughts** 
+
+**Link to work**
+
+### Day 80: March 20, 2020 
+
+**Today's Progress** 
+
+**Thoughts** 
+
+**Link to work**
+
+### Day 81: March 21, 2020 
+
+**Today's Progress** 
+
+**Thoughts** 
+
+**Link to work**
+
+### Day 82: March 22, 2020 
+
+**Today's Progress** 
+
+**Thoughts** 
+
+**Link to work**
+
+### Day 83: March 23, 2020 
+
+**Today's Progress** 
+
+**Thoughts** 
+
+**Link to work**
+
+### Day 84: March 24, 2020 
+
+**Today's Progress** 
+
+**Thoughts** 
+
+**Link to work**
+
+### Day 85: March 25, 2020 
+
+**Today's Progress** 
+
+**Thoughts** 
+
+**Link to work**
+
+### Day 86: March 26, 2020 
+
+**Today's Progress** 
+
+**Thoughts** 
+
+**Link to work**
+
+### Day 87: March 27, 2020 
+
+**Today's Progress** 
+
+**Thoughts** 
+
+**Link to work**
+
+### Day 88: March 28, 2020 
+
+**Today's Progress** 
+
+**Thoughts** 
+
+**Link to work**
+
+### Day 89: March 29, 2020 
+
+**Today's Progress** 
+
+**Thoughts** 
+
+**Link to work**
+
+### Day 90: March 30, 2020 
+
+**Today's Progress** 
+
+**Thoughts** 
+
+**Link to work**
+
+### Day 91: March 31, 2020 
+
+**Today's Progress** 
+
+**Thoughts** 
+
+**Link to work**
+
+### Day 92: April 1, 2020 
+
+**Today's Progress** 
+
+**Thoughts** 
+
+**Link to work**
+
+### Day 93: April 2, 2020 
+
+**Today's Progress** 
+
+**Thoughts** 
+
+**Link to work**
+
+### Day 94: April 3, 2020 
+
+**Today's Progress** 
+
+**Thoughts** 
+
+**Link to work**
+
+### Day 95: April 4, 2020 
+
+**Today's Progress** 
+
+**Thoughts** 
+
+**Link to work**
+
+### Day 96: April 5, 2020 
+
+**Today's Progress** 
+
+**Thoughts** 
+
+**Link to work**
+
+### Day 97: April 6, 2020 
+
+**Today's Progress** 
+
+**Thoughts** 
+
+**Link to work**
+
+### Day 98: April 7, 2020 
+
+**Today's Progress** 
+
+**Thoughts** 
+
+**Link to work**
+
+### Day 99: April 8, 2020 
+
+**Today's Progress** 
+
+**Thoughts** 
+
+**Link to work**
+
+### Day 100: April 9, 2020 
 
 **Today's Progress** 
 
