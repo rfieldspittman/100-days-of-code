@@ -26,6 +26,7 @@ none
 ### Day 3: January 3, 2020 
 
 **Today's Progress** 
+Started working on a portfolio site from a template.  Nothing to show yet.
 
 **Thoughts** 
 
