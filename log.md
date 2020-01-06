@@ -1,6 +1,11 @@
 # 100 Days Of Code - Log
 
-Hello, welcome to my 100 Days of Code log.  My goals are to practice what I've learned in various courses I've taken.  I want to finish/refactor projects that I have already started.  I would like also to complete a few portfolio-worthy projects.  As I am a relative beginner, I will be doing some of my practicing on freecodecamp.org.  I believe I have already finished HTML and CSS there and would like to finish the rest of the path.  I want to put my skills into action and gain the confidence that comes with experience.
+Hello, welcome to my 100 Days of Code log.  My goals are to practice what I've learned in various courses I've taken.  I want to finish/refactor projects that I have already started.  I would like also to complete a few portfolio-worthy projects.  As I am a relative beginner, I will be doing some of my practicing on freecodecamp.org.  I believe I have already finished HTML and CSS there and would like to finish the rest of the path.  I want to put my skills into action and gain the confidence that comes with experience.  
+
+1/5/20 - Goals added:  
+1.  After I finish the "Responsive Web Design Certification" in freecodecamp, I would like to start "Front End Libraries Certification."  
+2.  Work on very small projects such as animating part of a web page, creating a form, etc.
+
 
 ### Day 1: January 1, 2020 
 
@@ -35,18 +40,24 @@ Started working on a portfolio site from a template.  Nothing to show yet.
 ### Day 4: January 4, 2020 
 
 **Today's Progress** 
+Worked on Applied Accessibility section in freecodecamp.org.  Hosted a template to be used for my portfolio using Github Pages.
 
 **Thoughts** 
+It is hard to do much on days I work.  I think I will leave the freecodecamp stuff for days where I work.
 
 **Link to work**
+none
 
 ### Day 5: January 5, 2020 
 
 **Today's Progress** 
+Finished on Applied Accessibility section in freecodecamp.org.  Researching possible small JavaScript projects.
 
 **Thoughts** 
+Added some goals to the top of this document.
 
 **Link to work**
+none
 
 ### Day 6: January 6, 2020 
 
