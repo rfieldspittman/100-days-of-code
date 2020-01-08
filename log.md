@@ -36,6 +36,7 @@ Started working on a portfolio site from a template.  Nothing to show yet.
 **Thoughts** 
 
 **Link to work**
+none
 
 ### Day 4: January 4, 2020 
 
@@ -62,6 +63,7 @@ none
 ### Day 6: January 6, 2020 
 
 **Today's Progress** 
+Sick day :(  Will make up a 1/2 hour on day 7 and 1/2 hour on day 8.
 
 **Thoughts** 
 
@@ -70,6 +72,7 @@ none
 ### Day 7: January 7, 2020 
 
 **Today's Progress** 
+On freecodecamp.org, completed Responsive Web Design Principles and CSS Flexbox.
 
 **Thoughts** 
 
