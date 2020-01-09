@@ -79,6 +79,7 @@ On freecodecamp.org, completed Responsive Web Design Principles and CSS Flexbox.
 **Link to work**
 
 ### Day 8: January 8, 2020 
+Working on making a responsive nav bar using flexbox.
 
 **Today's Progress** 
 
