@@ -90,6 +90,7 @@ Working on making a responsive nav bar using flexbox.
 ### Day 9: January 9, 2020 
 
 **Today's Progress** 
+Still working on responsive navbar using flexbox.  I picked the wrong tutorial online to try and follow.  I am still trying to fix the JavaScript portion to toggle the hamburger icon.
 
 **Thoughts** 
 
