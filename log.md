@@ -99,8 +99,10 @@ Still working on responsive navbar using flexbox.  I picked the wrong tutorial o
 ### Day 10: January 10, 2020 
 
 **Today's Progress** 
+I finished the CSS grid section of freecodecamp today, and will be doing the 5 projects at the end of the certification path next.
 
 **Thoughts** 
+Will need to revisit the navbar small project later.  I need to review event listeners. 
 
 **Link to work**
 
