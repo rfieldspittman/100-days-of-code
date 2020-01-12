@@ -109,10 +109,11 @@ Will need to revisit the navbar small project later.  I need to review event lis
 ### Day 11: January 11, 2020 
 
 **Today's Progress** 
-
+Working on tribute page project for freecodecamp.  Not completed yet.
 **Thoughts** 
 
 **Link to work**
+https://codepen.io/rfieldspittman/pen/RwNyqrQ
 
 ### Day 11: January 12, 2020 
 
