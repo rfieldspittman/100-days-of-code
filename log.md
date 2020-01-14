@@ -118,19 +118,19 @@ https://codepen.io/rfieldspittman/pen/RwNyqrQ
 ### Day 11: January 12, 2020 
 
 **Today's Progress** 
-
+Working on tribute page project for freecodecamp.  Not completed yet.
 **Thoughts** 
 
 **Link to work**
-
+https://codepen.io/rfieldspittman/pen/RwNyqrQ
 ### Day 13: January 13, 2020 
 
 **Today's Progress** 
-
+Finished  tribute page project for freecodecamp.
 **Thoughts** 
 
 **Link to work**
-
+https://codepen.io/rfieldspittman/pen/RwNyqrQ
 ### Day 14: January 14, 2020 
 
 **Today's Progress** 
