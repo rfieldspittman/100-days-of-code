@@ -126,7 +126,7 @@ https://codepen.io/rfieldspittman/pen/RwNyqrQ
 ### Day 13: January 13, 2020 
 
 **Today's Progress** 
-Finished  tribute page project for freecodecamp.
+Working on tribute page project for freecodecamp.  Not completed yet.
 **Thoughts** 
 
 **Link to work**
@@ -134,19 +134,19 @@ https://codepen.io/rfieldspittman/pen/RwNyqrQ
 ### Day 14: January 14, 2020 
 
 **Today's Progress** 
-
+Finished  tribute page project for freecodecamp.
 **Thoughts** 
 
 **Link to work**
-
+https://codepen.io/rfieldspittman/pen/RwNyqrQ
 ### Day 15: January 15, 2020 
 
 **Today's Progress** 
-
+Started the "Survey Form" project on freecodecamp.
 **Thoughts** 
-
+I am learning all the ways that Emmet can cut down on manually typing in code.
 **Link to work**
-
+https://codepen.io/rfieldspittman/pen/JjoaoPW
 ### Day 16: January 16, 2020 
 
 **Today's Progress** 
