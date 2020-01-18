@@ -150,7 +150,7 @@ https://codepen.io/rfieldspittman/pen/JjoaoPW
 ### Day 16: January 16, 2020 
 
 **Today's Progress** 
-
+Working on Survey Form project for freecodecamp.org.
 **Thoughts** 
 
 **Link to work**
@@ -158,7 +158,7 @@ https://codepen.io/rfieldspittman/pen/JjoaoPW
 ### Day 17: January 17, 2020 
 
 **Today's Progress** 
-
+Working on Survey Form project for freecodecamp.org.
 **Thoughts** 
 
 **Link to work**
