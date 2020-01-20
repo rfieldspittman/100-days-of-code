@@ -174,9 +174,9 @@ https://codepen.io/rfieldspittman/pen/JjoaoPW
 ### Day 19: January 19, 2020 
 
 **Today's Progress** 
-
+Did 25% of the basic JavaScript section in fcc.  I do plan to finish the projects in the first track later, but just didn't have the energy to star the next one today.
 **Thoughts** 
-
+I learned that the % is the remainder operator in JavaScript, not the modulus.
 **Link to work**
 
 ### Day 20: January 20, 2020 
