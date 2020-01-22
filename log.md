@@ -182,7 +182,7 @@ I learned that the % is the remainder operator in JavaScript, not the modulus.
 ### Day 20: January 20, 2020 
 
 **Today's Progress** 
-
+Working on the JavaScript section of freecodecamp.
 **Thoughts** 
 
 **Link to work**
@@ -190,7 +190,7 @@ I learned that the % is the remainder operator in JavaScript, not the modulus.
 ### Day 21: January 21, 2020 
 
 **Today's Progress** 
-
+Working on the JavaScript section of freecodecamp.  I am at 60% complete.
 **Thoughts** 
 
 **Link to work**
