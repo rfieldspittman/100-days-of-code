@@ -198,7 +198,7 @@ Working on the JavaScript section of freecodecamp.  I am at 60% complete.
 ### Day 22: January 22, 2020 
 
 **Today's Progress** 
-
+Continued on JavaScript portion of freecodecamp.
 **Thoughts** 
 
 **Link to work**
@@ -206,6 +206,7 @@ Working on the JavaScript section of freecodecamp.  I am at 60% complete.
 ### Day 23: January 23, 2020 
 
 **Today's Progress** 
+Working on landing page project.  Working in VS code, will copy over to copepen later so I can share.  So far I have a working navbar :) that doesn't use JavaScript.  It uses a "checkbox trick" to hide the hamburger bar on desktop.
 
 **Thoughts** 
 
