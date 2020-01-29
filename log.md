@@ -256,7 +256,7 @@ There are a couple of lessons that felt a little advanced.  So, I have been spin
 ### Day 29: January 29, 2020 
 
 **Today's Progress** 
-
+Worked on landing page project.
 **Thoughts** 
 
 **Link to work**
