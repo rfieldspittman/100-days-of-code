@@ -215,6 +215,7 @@ Working on landing page project.  Working in VS code, will copy over to copepen 
 ### Day 24: January 24, 2020 
 
 **Today's Progress** 
+Still working on landing page, and also freecodecamp JavaScript lessons.
 
 **Thoughts** 
 
@@ -223,7 +224,7 @@ Working on landing page project.  Working in VS code, will copy over to copepen 
 ### Day 25: January 25, 2020 
 
 **Today's Progress** 
-
+Taking a short break from the landing page project.  Still working on freecodecamp JavaScript lessons.
 **Thoughts** 
 
 **Link to work**
@@ -231,7 +232,7 @@ Working on landing page project.  Working in VS code, will copy over to copepen 
 ### Day 26: January 26, 2020 
 
 **Today's Progress** 
-
+Still working on freecodecamp JavaScript lessons.
 **Thoughts** 
 
 **Link to work**
@@ -239,7 +240,7 @@ Working on landing page project.  Working in VS code, will copy over to copepen 
 ### Day 27: January 27, 2020 
 
 **Today's Progress** 
-
+Still working on freecodecamp JavaScript lessons.  Also did some lessons in the ES6 section (working ahead).
 **Thoughts** 
 
 **Link to work**
@@ -247,9 +248,9 @@ Working on landing page project.  Working in VS code, will copy over to copepen 
 ### Day 28: January 28, 2020 
 
 **Today's Progress** 
-
+Still working on freecodecamp JavaScript lessons.
 **Thoughts** 
-
+There are a couple of lessons that felt a little advanced.  So, I have been spinning my wheels the last few days.  There was a lesson on JSON, and now one about recursion.  I really think I need to look into these further on another website.  I feel I need to understand them better before moving on.  Also, once I reach a certain point I am going to switch over entirely and learn some Python.  I have been thinking for a while that I would like to know how to do some small useful things in Python.  I don't know where it will lead, but I think I need a change of pace for a little while.
 **Link to work**
 
 ### Day 29: January 29, 2020 
