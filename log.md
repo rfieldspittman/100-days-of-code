@@ -260,23 +260,23 @@ Worked on landing page project.
 **Thoughts** 
 
 **Link to work**
-
+https://codepen.io/rfieldspittman/full/bGNPZGL
 ### Day 30: January 30, 2020 
 
 **Today's Progress** 
-
+Worked on landing page project.
 **Thoughts** 
 
 **Link to work**
-
+https://codepen.io/rfieldspittman/full/bGNPZGL
 ### Day 31: January 31, 2020 
 
 **Today's Progress** 
-
+Finished landing page project.  Couldn't figure out how to fork the test cases, it seemed to work for the 1st 2 projects, don't know if the problem is on my end or not but moving on.
 **Thoughts** 
 
 **Link to work**
-
+https://codepen.io/rfieldspittman/full/bGNPZGL
 ### Day 32: February 1, 2020 
 
 **Today's Progress** 
