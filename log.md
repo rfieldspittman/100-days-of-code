@@ -4,7 +4,10 @@ Hello, welcome to my 100 Days of Code log.  My goals are to practice what I've l
 
 1/5/20 - Goals added:  
 1.  After I finish the "Responsive Web Design Certification" in freecodecamp, I would like to start "Front End Libraries Certification."  
-2.  Work on very small projects such as animating part of a web page, creating a form, etc.
+2.  Work on very small projects such as animating part of a web page, creating a form, etc.  
+
+2/1/20 - Goals added:
+I want to take part of this time to explore Python.
 
 
 ### Day 1: January 1, 2020 
