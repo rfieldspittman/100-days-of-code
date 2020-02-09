@@ -283,7 +283,7 @@ https://codepen.io/rfieldspittman/full/bGNPZGL
 ### Day 32: February 1, 2020 
 
 **Today's Progress** 
-
+Worked on recursion lession in freecodecamp
 **Thoughts** 
 
 **Link to work**
@@ -291,7 +291,7 @@ https://codepen.io/rfieldspittman/full/bGNPZGL
 ### Day 33: February 2, 2020 
 
 **Today's Progress** 
-
+Started on Documentation page project in freecodecamp (but didn't get very far.)
 **Thoughts** 
 
 **Link to work**
@@ -299,7 +299,7 @@ https://codepen.io/rfieldspittman/full/bGNPZGL
 ### Day 34: February 3, 2020 
 
 **Today's Progress** 
-
+Unfortuneately, I wasn't able to do coding today.  Will make up the difference in the near future.
 **Thoughts** 
 
 **Link to work**
@@ -307,7 +307,7 @@ https://codepen.io/rfieldspittman/full/bGNPZGL
 ### Day 35: February 4, 2020 
 
 **Today's Progress** 
-
+Worked on learning Python in Treehouse.
 **Thoughts** 
 
 **Link to work**
@@ -315,7 +315,7 @@ https://codepen.io/rfieldspittman/full/bGNPZGL
 ### Day 36: February 5, 2020 
 
 **Today's Progress** 
-
+Worked on learning Python in Treehouse.
 **Thoughts** 
 
 **Link to work**
@@ -323,7 +323,7 @@ https://codepen.io/rfieldspittman/full/bGNPZGL
 ### Day 37: February 6, 2020 
 
 **Today's Progress** 
-
+Worked on learning Python in Treehouse. Made a MadLibs game.
 **Thoughts** 
 
 **Link to work**
@@ -331,7 +331,7 @@ https://codepen.io/rfieldspittman/full/bGNPZGL
 ### Day 38: February 7, 2020 
 
 **Today's Progress** 
-
+Worked on learning Python in Treehouse. Did a FizzBuzz exercise.
 **Thoughts** 
 
 **Link to work**
@@ -339,7 +339,7 @@ https://codepen.io/rfieldspittman/full/bGNPZGL
 ### Day 39: February 8, 2020 
 
 **Today's Progress** 
-
+Finished Basic JavaScript in freecodecamp!
 **Thoughts** 
 
 **Link to work**
