@@ -347,7 +347,7 @@ Finished Basic JavaScript in freecodecamp!
 ### Day 40: February 9, 2020 
 
 **Today's Progress** 
-
+Worked on Python lessons in Treehouse.
 **Thoughts** 
 
 **Link to work**
@@ -355,7 +355,7 @@ Finished Basic JavaScript in freecodecamp!
 ### Day 41: February 10, 2020 
 
 **Today's Progress** 
-
+Worked on ES6 lessons on freecodecamp and Treehouse.
 **Thoughts** 
 
 **Link to work**
