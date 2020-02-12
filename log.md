@@ -9,6 +9,8 @@ Hello, welcome to my 100 Days of Code log.  My goals are to practice what I've l
 2/1/20 - Goals added:
 I want to take part of this time to explore Python.
 
+2/12/20 - I decided it would benefit me to learn Bootstrap.  I think it will make creating navbars much easier.  I might also decide that I need to know Sass, as a lot of the Bootstrap documentation mentions it.  
+
 
 ### Day 1: January 1, 2020 
 
@@ -363,15 +365,15 @@ Worked on ES6 lessons on freecodecamp and Treehouse.
 ### Day 42: February 11, 2020 
 
 **Today's Progress** 
-
+Learning Bootstrap and Python.  
 **Thoughts** 
-
+For Bootstrap I am coding along with a lesson in Treehouse.  For Python, I am following along in a YouTube video series called "Automate the Boring Stuff with Python" by Al Sweigart.  I am also (in my down time when I am working, usually) trying to watch all the videos for Harvard's CS50 (2019) course.
 **Link to work**
 
 ### Day 43: February 12, 2020 
 
 **Today's Progress** 
-
+Learning Bootstrap and Python.  Today I made a simple landing page for a fake tech conference.  Then I started on the more detailed page that follows (Treehouse lesson).
 **Thoughts** 
 
 **Link to work**
