@@ -381,9 +381,9 @@ Learning Bootstrap and Python.  Today I made a simple landing page for a fake te
 ### Day 44: February 13, 2020 
 
 **Today's Progress** 
-
+Working on the full version of the tech conference page (Treehouse - Bootstrap).
 **Thoughts** 
-
+While learning Bootstrap, it seems to me that so far we haven't written any CSS.  So I guess Bootstrap is just a library of someone else's set CSS styles that you can cheat off of. :)
 **Link to work**
 
 ### Day 45: February 14, 2020 
