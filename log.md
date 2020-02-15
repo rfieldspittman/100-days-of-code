@@ -389,7 +389,7 @@ While learning Bootstrap, it seems to me that so far we haven't written any CSS.
 ### Day 45: February 14, 2020 
 
 **Today's Progress** 
-
+Continuing on the Bootstrap project walk-through.
 **Thoughts** 
 
 **Link to work**
