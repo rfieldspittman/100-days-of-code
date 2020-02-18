@@ -397,7 +397,7 @@ Continuing on the Bootstrap project walk-through.
 ### Day 46: February 15, 2020 
 
 **Today's Progress** 
-
+Continuing on the Bootstrap project walk-through.
 **Thoughts** 
 
 **Link to work**
@@ -405,7 +405,7 @@ Continuing on the Bootstrap project walk-through.
 ### Day 47: February 16, 2020 
 
 **Today's Progress** 
-
+Continuing on the Bootstrap project walk-through.
 **Thoughts** 
 
 **Link to work**
@@ -413,7 +413,7 @@ Continuing on the Bootstrap project walk-through.
 ### Day 48: February 17, 2020 
 
 **Today's Progress** 
-
+Continuing on the Bootstrap project walk-through.
 **Thoughts** 
 
 **Link to work**
@@ -421,7 +421,7 @@ Continuing on the Bootstrap project walk-through.
 ### Day 49: February 18, 2020 
 
 **Today's Progress** 
-
+Continuing on the Bootstrap project walk-through.
 **Thoughts** 
 
 **Link to work**
