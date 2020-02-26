@@ -429,7 +429,7 @@ Continuing on the Bootstrap project walk-through.
 ### Day 50: February 19, 2020 
 
 **Today's Progress** 
-
+Continuing on the Bootstrap project walk-through.
 **Thoughts** 
 
 **Link to work**
@@ -437,7 +437,7 @@ Continuing on the Bootstrap project walk-through.
 ### Day 51: February 20, 2020 
 
 **Today's Progress** 
-
+Continuing on the Bootstrap project walk-through.  Started on the Documentation Site Project on fcc.
 **Thoughts** 
 
 **Link to work**
@@ -445,7 +445,7 @@ Continuing on the Bootstrap project walk-through.
 ### Day 52: February 21, 2020 
 
 **Today's Progress** 
-
+Continued on the Documentation Site Project on fcc.
 **Thoughts** 
 
 **Link to work**
@@ -453,7 +453,7 @@ Continuing on the Bootstrap project walk-through.
 ### Day 53: February 22, 2020 
 
 **Today's Progress** 
-
+Continued on the Documentation Site Project on fcc.
 **Thoughts** 
 
 **Link to work**
@@ -461,7 +461,7 @@ Continuing on the Bootstrap project walk-through.
 ### Day 54: February 23, 2020 
 
 **Today's Progress** 
-
+Nothing.  Sick. :(
 **Thoughts** 
 
 **Link to work**
@@ -469,7 +469,7 @@ Continuing on the Bootstrap project walk-through.
 ### Day 55: February 24, 2020 
 
 **Today's Progress** 
-
+Did some random lessons in freecodecamp.  Did a few ES6 lessons and started learning about Sass.
 **Thoughts** 
 
 **Link to work**
