@@ -477,7 +477,7 @@ Did some random lessons in freecodecamp.  Did a few ES6 lessons and started lear
 ### Day 56: February 25, 2020 
 
 **Today's Progress** 
-
+Worked on ES6 section of freecodecamp.
 **Thoughts** 
 
 **Link to work**
@@ -485,7 +485,7 @@ Did some random lessons in freecodecamp.  Did a few ES6 lessons and started lear
 ### Day 57: February 26, 2020 
 
 **Today's Progress** 
-
+Working on Documentation page project.
 **Thoughts** 
 
 **Link to work**
@@ -493,7 +493,7 @@ Did some random lessons in freecodecamp.  Did a few ES6 lessons and started lear
 ### Day 58: February 27, 2020 
 
 **Today's Progress** 
-
+Working on Documentation page project.
 **Thoughts** 
 
 **Link to work**
@@ -501,7 +501,7 @@ Did some random lessons in freecodecamp.  Did a few ES6 lessons and started lear
 ### Day 59: February 28, 2020 
 
 **Today's Progress** 
-
+Working on Documentation page project.
 **Thoughts** 
 
 **Link to work**
@@ -509,7 +509,7 @@ Did some random lessons in freecodecamp.  Did a few ES6 lessons and started lear
 ### Day 60: February 29, 2020 
 
 **Today's Progress** 
-
+Worked on learning Python functions.
 **Thoughts** 
 
 **Link to work**
@@ -517,7 +517,7 @@ Did some random lessons in freecodecamp.  Did a few ES6 lessons and started lear
 ### Day 61: March 1, 2020 
 
 **Today's Progress** 
-
+Working on Documentation page project.
 **Thoughts** 
 
 **Link to work**
@@ -525,7 +525,7 @@ Did some random lessons in freecodecamp.  Did a few ES6 lessons and started lear
 ### Day 62: March 2, 2020 
 
 **Today's Progress** 
-
+Working on Documentation page project.  I've been trying to add real information to the page, which is what is taking so long.
 **Thoughts** 
 
 **Link to work**
