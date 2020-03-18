@@ -4,6 +4,7 @@
 
 * [Rules](rules.md)
 * [Log - click here to see my progress](log.md)
+* [Log #2 - starting again at day 1](log2.md)
 * [FAQ](FAQ.md)
 * [Resources](resources.md)
 
