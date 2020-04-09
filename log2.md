@@ -12,7 +12,7 @@ New (updated) goals for this challenge reboot:
   
 3. Continue learning Python and make a couple of projects.
   
-4. Refresh JavaScript skills and add more advanced skills like React.
+4. Refresh JavaScript skills and add more advanced skills like React.  
   
   
   
@@ -30,7 +30,7 @@ New (updated) goals for this challenge reboot:
 *2/12/20 - I decided it would benefit me to learn Bootstrap.  I think it will make creating navbars much easier.  I might also decide that I need to know Sass, as a lot of the Bootstrap documentation mentions it.  --Note: I did complete a Bootstrap course in Treehouse.*
 
 
-### Day 1: March 18, 2020 
+### Day 1: April 9, 2020 
 
 **Today's Progress** 
 
@@ -38,7 +38,7 @@ New (updated) goals for this challenge reboot:
 
 **Link to work**
 
-### Day 2: March 19, 2020 
+### Day 2: April 10, 2020 
 
 **Today's Progress** 
 
@@ -46,7 +46,7 @@ New (updated) goals for this challenge reboot:
 
 **Link to work**
 
-### Day 3: March 20, 2020 
+### Day 3: April 11, 2020 
 
 **Today's Progress** 
 
@@ -54,7 +54,7 @@ New (updated) goals for this challenge reboot:
 
 **Link to work**
 
-### Day 4: March 21, 2020 
+### Day 4: April 12, 2020 
 
 **Today's Progress** 
 
@@ -62,7 +62,7 @@ New (updated) goals for this challenge reboot:
 
 **Link to work**
 
-### Day 5: March 22, 2020 
+### Day 5: April 13, 2020 
 
 **Today's Progress** 
 
@@ -70,7 +70,7 @@ New (updated) goals for this challenge reboot:
 
 **Link to work**
 
-### Day 6: March 23, 2020 
+### Day 6: April 14, 2020 
 
 **Today's Progress** 
 
@@ -78,7 +78,7 @@ New (updated) goals for this challenge reboot:
 
 **Link to work**
 
-### Day 7: March 24, 2020 
+### Day 7: April 15, 2020 
 
 **Today's Progress** 
 
@@ -86,7 +86,7 @@ New (updated) goals for this challenge reboot:
 
 **Link to work**
 
-### Day 8: March 25, 2020 
+### Day 8: April 16, 2020 
 
 **Today's Progress** 
 
@@ -94,7 +94,7 @@ New (updated) goals for this challenge reboot:
 
 **Link to work**
 
-### Day 9: March 26, 2020 
+### Day 9: April 17, 2020 
 
 **Today's Progress** 
 
@@ -102,7 +102,7 @@ New (updated) goals for this challenge reboot:
 
 **Link to work**
 
-### Day 10: March 27, 2020 
+### Day 10: April 18, 2020 
 
 **Today's Progress** 
 
@@ -110,7 +110,7 @@ New (updated) goals for this challenge reboot:
 
 **Link to work**
 
-### Day 11: March 28, 2020 
+### Day 11: April 19, 2020 
 
 **Today's Progress** 
 
@@ -118,7 +118,7 @@ New (updated) goals for this challenge reboot:
 
 **Link to work**
 
-### Day 12: March 29, 2020 
+### Day 12: April 20, 2020 
 
 **Today's Progress** 
 
@@ -126,7 +126,7 @@ New (updated) goals for this challenge reboot:
 
 **Link to work**
 
-### Day 13: March 30, 2020 
+### Day 13: April 21, 2020 
 
 **Today's Progress** 
 
@@ -134,7 +134,7 @@ New (updated) goals for this challenge reboot:
 
 **Link to work**
 
-### Day 14: March 31, 2020 
+### Day 14: April 22, 2020 
 
 **Today's Progress** 
 
@@ -142,7 +142,7 @@ New (updated) goals for this challenge reboot:
 
 **Link to work**
 
-### Day 15: April 1, 2020 
+### Day 15: April 23, 2020 
 
 **Today's Progress** 
 
@@ -150,7 +150,7 @@ New (updated) goals for this challenge reboot:
 
 **Link to work**
 
-### Day 16: April 2, 2020 
+### Day 16: April 24, 2020 
 
 **Today's Progress** 
 
@@ -158,7 +158,7 @@ New (updated) goals for this challenge reboot:
 
 **Link to work**
 
-### Day 17: April 3, 2020 
+### Day 17: April 25, 2020 
 
 **Today's Progress** 
 
@@ -166,7 +166,7 @@ New (updated) goals for this challenge reboot:
 
 **Link to work**
 
-### Day 18: April 4, 2020 
+### Day 18: April 26, 2020 
 
 **Today's Progress** 
 
@@ -174,7 +174,7 @@ New (updated) goals for this challenge reboot:
 
 **Link to work**
 
-### Day 19: April 5, 2020 
+### Day 19: April 27, 2020 
 
 **Today's Progress** 
 
@@ -182,7 +182,7 @@ New (updated) goals for this challenge reboot:
 
 **Link to work**
 
-### Day 20: April 6, 2020 
+### Day 20: April 28, 2020 
 
 **Today's Progress** 
 
@@ -190,7 +190,7 @@ New (updated) goals for this challenge reboot:
 
 **Link to work**
 
-### Day 21: April 7, 2020 
+### Day 21: April 29, 2020 
 
 **Today's Progress** 
 
@@ -198,7 +198,7 @@ New (updated) goals for this challenge reboot:
 
 **Link to work**
 
-### Day 22: April 8, 2020 
+### Day 22: April 30, 2020 
 
 **Today's Progress** 
 
@@ -206,7 +206,7 @@ New (updated) goals for this challenge reboot:
 
 **Link to work**
 
-### Day 23: April 9, 2020 
+### Day 23: May 1, 2020 
 
 **Today's Progress** 
 
@@ -214,7 +214,7 @@ New (updated) goals for this challenge reboot:
 
 **Link to work**
 
-### Day 24: April 10, 2020 
+### Day 24: May 2, 2020 
 
 **Today's Progress** 
 
@@ -222,7 +222,7 @@ New (updated) goals for this challenge reboot:
 
 **Link to work**
 
-### Day 25: April 11, 2020 
+### Day 25: May 3, 2020 
 
 **Today's Progress** 
 
@@ -230,7 +230,7 @@ New (updated) goals for this challenge reboot:
 
 **Link to work**
 
-### Day 26: April 12, 2020 
+### Day 26: May 4, 2020 
 
 **Today's Progress** 
 
@@ -238,7 +238,7 @@ New (updated) goals for this challenge reboot:
 
 **Link to work**
 
-### Day 27: April 13, 2020 
+### Day 27: May 5, 2020 
 
 **Today's Progress** 
 
@@ -246,7 +246,7 @@ New (updated) goals for this challenge reboot:
 
 **Link to work**
 
-### Day 28: April 14, 2020 
+### Day 28: May 6, 2020 
 
 **Today's Progress** 
 
@@ -254,7 +254,7 @@ New (updated) goals for this challenge reboot:
 
 **Link to work**
 
-### Day 29: April 15, 2020 
+### Day 29: May 7, 2020 
 
 **Today's Progress** 
 
@@ -262,7 +262,7 @@ New (updated) goals for this challenge reboot:
 
 **Link to work**
 
-### Day 30: April 16, 2020 
+### Day 30: May 8, 2020 
 
 **Today's Progress** 
 
@@ -270,7 +270,7 @@ New (updated) goals for this challenge reboot:
 
 **Link to work**
 
-### Day 31: April 17, 2020 
+### Day 31: May 9, 2020 
 
 **Today's Progress** 
 
@@ -278,7 +278,7 @@ New (updated) goals for this challenge reboot:
 
 **Link to work**
 
-### Day 32: April 18, 2020 
+### Day 32: May 10, 2020 
 
 **Today's Progress** 
 
@@ -286,7 +286,7 @@ New (updated) goals for this challenge reboot:
 
 **Link to work**
 
-### Day 33: April 19, 2020 
+### Day 33: May 11, 2020 
 
 **Today's Progress** 
 
@@ -294,7 +294,7 @@ New (updated) goals for this challenge reboot:
 
 **Link to work**
 
-### Day 34: April 20, 2020 
+### Day 34: May 12, 2020 
 
 **Today's Progress** 
 
@@ -302,7 +302,7 @@ New (updated) goals for this challenge reboot:
 
 **Link to work**
 
-### Day 35: April 21, 2020 
+### Day 35: May 13, 2020 
 
 **Today's Progress** 
 
@@ -310,7 +310,7 @@ New (updated) goals for this challenge reboot:
 
 **Link to work**
 
-### Day 36: April 22, 2020 
+### Day 36: May 14, 2020 
 
 **Today's Progress** 
 
@@ -318,7 +318,7 @@ New (updated) goals for this challenge reboot:
 
 **Link to work**
 
-### Day 37: April 23, 2020 
+### Day 37: May 15, 2020 
 
 **Today's Progress** 
 
@@ -326,7 +326,7 @@ New (updated) goals for this challenge reboot:
 
 **Link to work**
 
-### Day 38: April 24, 2020 
+### Day 38: May 16, 2020 
 
 **Today's Progress** 
 
@@ -334,7 +334,7 @@ New (updated) goals for this challenge reboot:
 
 **Link to work**
 
-### Day 39: April 25, 2020 
+### Day 39: May 17, 2020 
 
 **Today's Progress** 
 
@@ -342,7 +342,7 @@ New (updated) goals for this challenge reboot:
 
 **Link to work**
 
-### Day 40: April 26, 2020 
+### Day 40: May 18, 2020 
 
 **Today's Progress** 
 
@@ -350,7 +350,7 @@ New (updated) goals for this challenge reboot:
 
 **Link to work**
 
-### Day 41: April 27, 2020 
+### Day 41: May 19, 2020 
 
 **Today's Progress** 
 
@@ -358,7 +358,7 @@ New (updated) goals for this challenge reboot:
 
 **Link to work**
 
-### Day 42: April 28, 2020 
+### Day 42: May 20, 2020 
 
 **Today's Progress** 
 
@@ -366,7 +366,7 @@ New (updated) goals for this challenge reboot:
 
 **Link to work**
 
-### Day 43: April 29, 2020 
+### Day 43: May 21, 2020 
 
 **Today's Progress** 
 
@@ -374,7 +374,7 @@ New (updated) goals for this challenge reboot:
 
 **Link to work**
 
-### Day 44: April 30, 2020 
+### Day 44: May 22, 2020 
 
 **Today's Progress** 
 
@@ -382,7 +382,7 @@ New (updated) goals for this challenge reboot:
 
 **Link to work**
 
-### Day 45: May 1, 2020 
+### Day 45: May 23, 2020 
 
 **Today's Progress** 
 
@@ -390,7 +390,7 @@ New (updated) goals for this challenge reboot:
 
 **Link to work**
 
-### Day 46: May 2, 2020 
+### Day 46: May 24, 2020 
 
 **Today's Progress** 
 
@@ -398,7 +398,7 @@ New (updated) goals for this challenge reboot:
 
 **Link to work**
 
-### Day 47: May 3, 2020 
+### Day 47: May 25, 2020 
 
 **Today's Progress** 
 
@@ -406,7 +406,7 @@ New (updated) goals for this challenge reboot:
 
 **Link to work**
 
-### Day 48: May 4, 2020 
+### Day 48: May 26, 2020 
 
 **Today's Progress** 
 
@@ -414,7 +414,7 @@ New (updated) goals for this challenge reboot:
 
 **Link to work**
 
-### Day 49: May 5, 2020 
+### Day 49: May 27, 2020 
 
 **Today's Progress** 
 
@@ -422,7 +422,7 @@ New (updated) goals for this challenge reboot:
 
 **Link to work**
 
-### Day 50: May 6, 2020 
+### Day 50: May 28, 2020 
 
 **Today's Progress** 
 
@@ -430,7 +430,7 @@ New (updated) goals for this challenge reboot:
 
 **Link to work**
 
-### Day 51: May 7, 2020 
+### Day 51: May 29, 2020 
 
 **Today's Progress** 
 
@@ -438,7 +438,7 @@ New (updated) goals for this challenge reboot:
 
 **Link to work**
 
-### Day 52: May 8, 2020 
+### Day 52: May 30, 2020 
 
 **Today's Progress** 
 
@@ -446,7 +446,7 @@ New (updated) goals for this challenge reboot:
 
 **Link to work**
 
-### Day 53: May 9, 2020 
+### Day 53: May 31, 2020 
 
 **Today's Progress** 
 
@@ -454,7 +454,7 @@ New (updated) goals for this challenge reboot:
 
 **Link to work**
 
-### Day 54: May 10, 2020 
+### Day 54: June 1, 2020 
 
 **Today's Progress** 
 
@@ -462,7 +462,7 @@ New (updated) goals for this challenge reboot:
 
 **Link to work**
 
-### Day 55: May 11, 2020 
+### Day 55: June 2, 2020 
 
 **Today's Progress** 
 
@@ -470,7 +470,7 @@ New (updated) goals for this challenge reboot:
 
 **Link to work**
 
-### Day 56: May 12, 2020 
+### Day 56: June 3, 2020 
 
 **Today's Progress** 
 
@@ -478,7 +478,7 @@ New (updated) goals for this challenge reboot:
 
 **Link to work**
 
-### Day 57: May 13, 2020 
+### Day 57: June 4, 2020 
 
 **Today's Progress** 
 
@@ -486,7 +486,7 @@ New (updated) goals for this challenge reboot:
 
 **Link to work**
 
-### Day 58: May 14, 2020 
+### Day 58: June 5, 2020 
 
 **Today's Progress** 
 
@@ -494,7 +494,7 @@ New (updated) goals for this challenge reboot:
 
 **Link to work**
 
-### Day 59: May 15, 2020 
+### Day 59: June 6, 2020 
 
 **Today's Progress** 
 
@@ -502,7 +502,7 @@ New (updated) goals for this challenge reboot:
 
 **Link to work**
 
-### Day 60: May 16, 2020 
+### Day 60: June 7, 2020 
 
 **Today's Progress** 
 
@@ -510,7 +510,7 @@ New (updated) goals for this challenge reboot:
 
 **Link to work**
 
-### Day 61: May 17, 2020 
+### Day 61: June 8, 2020 
 
 **Today's Progress** 
 
@@ -518,7 +518,7 @@ New (updated) goals for this challenge reboot:
 
 **Link to work**
 
-### Day 62: May 18, 2020 
+### Day 62: June 9, 2020 
 
 **Today's Progress** 
 
@@ -526,7 +526,7 @@ New (updated) goals for this challenge reboot:
 
 **Link to work**
 
-### Day 63: May 19, 2020 
+### Day 63: June 10, 2020 
 
 **Today's Progress** 
 
@@ -534,7 +534,7 @@ New (updated) goals for this challenge reboot:
 
 **Link to work**
 
-### Day 64: May 20, 2020 
+### Day 64: June 11, 2020 
 
 **Today's Progress** 
 
@@ -542,7 +542,7 @@ New (updated) goals for this challenge reboot:
 
 **Link to work**
 
-### Day 65: May 21, 2020 
+### Day 65: June 12, 2020 
 
 **Today's Progress** 
 
@@ -550,7 +550,7 @@ New (updated) goals for this challenge reboot:
 
 **Link to work**
 
-### Day 66: May 22, 2020 
+### Day 66: June 13, 2020 
 
 **Today's Progress** 
 
@@ -558,7 +558,7 @@ New (updated) goals for this challenge reboot:
 
 **Link to work**
 
-### Day 67: May 23, 2020 
+### Day 67: June 14, 2020 
 
 **Today's Progress** 
 
@@ -566,7 +566,7 @@ New (updated) goals for this challenge reboot:
 
 **Link to work**
 
-### Day 68: May 24, 2020 
+### Day 68: June 15, 2020 
 
 **Today's Progress** 
 
@@ -574,7 +574,7 @@ New (updated) goals for this challenge reboot:
 
 **Link to work**
 
-### Day 69: May 25, 2020 
+### Day 69: June 16, 2020 
 
 **Today's Progress** 
 
@@ -582,7 +582,7 @@ New (updated) goals for this challenge reboot:
 
 **Link to work**
 
-### Day 70: May 26, 2020 
+### Day 70: June 17, 2020 
 
 **Today's Progress** 
 
@@ -590,7 +590,7 @@ New (updated) goals for this challenge reboot:
 
 **Link to work**
 
-### Day 71: May 27, 2020 
+### Day 71: June 18, 2020 
 
 **Today's Progress** 
 
@@ -598,7 +598,7 @@ New (updated) goals for this challenge reboot:
 
 **Link to work**
 
-### Day 72: May 28, 2020 
+### Day 72: June 19, 2020 
 
 **Today's Progress** 
 
@@ -606,7 +606,7 @@ New (updated) goals for this challenge reboot:
 
 **Link to work**
 
-### Day 73: May 29, 2020 
+### Day 73: June 20, 2020 
 
 **Today's Progress** 
 
@@ -614,7 +614,7 @@ New (updated) goals for this challenge reboot:
 
 **Link to work**
 
-### Day 74: May 30, 2020 
+### Day 74: June 21, 2020 
 
 **Today's Progress** 
 
@@ -622,7 +622,7 @@ New (updated) goals for this challenge reboot:
 
 **Link to work**
 
-### Day 75: May 31, 2020 
+### Day 75: June 22, 2020 
 
 **Today's Progress** 
 
@@ -630,7 +630,7 @@ New (updated) goals for this challenge reboot:
 
 **Link to work**
 
-### Day 76: June 1, 2020 
+### Day 76: June 23, 2020 
 
 **Today's Progress** 
 
@@ -638,7 +638,7 @@ New (updated) goals for this challenge reboot:
 
 **Link to work**
 
-### Day 77: June 2, 2020 
+### Day 77: June 24, 2020 
 
 **Today's Progress** 
 
@@ -646,7 +646,7 @@ New (updated) goals for this challenge reboot:
 
 **Link to work**
 
-### Day 78: June 3, 2020 
+### Day 78: June 25, 2020 
 
 **Today's Progress** 
 
@@ -654,7 +654,7 @@ New (updated) goals for this challenge reboot:
 
 **Link to work**
 
-### Day 79: June 4, 2020 
+### Day 79: June 26, 2020 
 
 **Today's Progress** 
 
@@ -662,7 +662,7 @@ New (updated) goals for this challenge reboot:
 
 **Link to work**
 
-### Day 80: June 5, 2020 
+### Day 80: June 27, 2020 
 
 **Today's Progress** 
 
@@ -670,7 +670,7 @@ New (updated) goals for this challenge reboot:
 
 **Link to work**
 
-### Day 81: June 6, 2020 
+### Day 81: June 28, 2020 
 
 **Today's Progress** 
 
@@ -678,7 +678,7 @@ New (updated) goals for this challenge reboot:
 
 **Link to work**
 
-### Day 82: June 7, 2020 
+### Day 82: June 29, 2020 
 
 **Today's Progress** 
 
@@ -686,7 +686,7 @@ New (updated) goals for this challenge reboot:
 
 **Link to work**
 
-### Day 83: June 8, 2020 
+### Day 83: June 30, 2020 
 
 **Today's Progress** 
 
@@ -694,7 +694,7 @@ New (updated) goals for this challenge reboot:
 
 **Link to work**
 
-### Day 84: June 9, 2020 
+### Day 84: July 1, 2020 
 
 **Today's Progress** 
 
@@ -702,7 +702,7 @@ New (updated) goals for this challenge reboot:
 
 **Link to work**
 
-### Day 85: June 10, 2020 
+### Day 85: July 2, 2020 
 
 **Today's Progress** 
 
@@ -710,7 +710,7 @@ New (updated) goals for this challenge reboot:
 
 **Link to work**
 
-### Day 86: June 11, 2020 
+### Day 86: July 3, 2020 
 
 **Today's Progress** 
 
@@ -718,7 +718,7 @@ New (updated) goals for this challenge reboot:
 
 **Link to work**
 
-### Day 87: June 12, 2020 
+### Day 87: July 4, 2020 
 
 **Today's Progress** 
 
@@ -726,7 +726,7 @@ New (updated) goals for this challenge reboot:
 
 **Link to work**
 
-### Day 88: June 13, 2020 
+### Day 88: July 5, 2020 
 
 **Today's Progress** 
 
@@ -734,7 +734,7 @@ New (updated) goals for this challenge reboot:
 
 **Link to work**
 
-### Day 89: June 14, 2020 
+### Day 89: July 6, 2020 
 
 **Today's Progress** 
 
@@ -742,7 +742,7 @@ New (updated) goals for this challenge reboot:
 
 **Link to work**
 
-### Day 90: June 15, 2020 
+### Day 90: July 7, 2020 
 
 **Today's Progress** 
 
@@ -750,7 +750,7 @@ New (updated) goals for this challenge reboot:
 
 **Link to work**
 
-### Day 91: June 16, 2020 
+### Day 91: July 8, 2020 
 
 **Today's Progress** 
 
@@ -758,7 +758,7 @@ New (updated) goals for this challenge reboot:
 
 **Link to work**
 
-### Day 92: June 17, 2020 
+### Day 92: July 9, 2020 
 
 **Today's Progress** 
 
@@ -766,7 +766,7 @@ New (updated) goals for this challenge reboot:
 
 **Link to work**
 
-### Day 93: June 18, 2020 
+### Day 93: July 10, 2020 
 
 **Today's Progress** 
 
@@ -774,7 +774,7 @@ New (updated) goals for this challenge reboot:
 
 **Link to work**
 
-### Day 94: June 19, 2020 
+### Day 94: July 11, 2020 
 
 **Today's Progress** 
 
@@ -782,7 +782,7 @@ New (updated) goals for this challenge reboot:
 
 **Link to work**
 
-### Day 95: June 20, 2020 
+### Day 95: July 12, 2020 
 
 **Today's Progress** 
 
@@ -790,7 +790,7 @@ New (updated) goals for this challenge reboot:
 
 **Link to work**
 
-### Day 96: June 21, 2020 
+### Day 96: July 13, 2020 
 
 **Today's Progress** 
 
@@ -798,7 +798,7 @@ New (updated) goals for this challenge reboot:
 
 **Link to work**
 
-### Day 97: June 22, 2020 
+### Day 97: July 14, 2020 
 
 **Today's Progress** 
 
@@ -806,7 +806,7 @@ New (updated) goals for this challenge reboot:
 
 **Link to work**
 
-### Day 98: June 23, 2020 
+### Day 98: July 15, 2020 
 
 **Today's Progress** 
 
@@ -814,7 +814,7 @@ New (updated) goals for this challenge reboot:
 
 **Link to work**
 
-### Day 99: June 24, 2020 
+### Day 99: July 16, 2020 
 
 **Today's Progress** 
 
@@ -822,7 +822,7 @@ New (updated) goals for this challenge reboot:
 
 **Link to work**
 
-### Day 100: June 25, 2020 
+### Day 100: July 17, 2020 
 
 **Today's Progress** 
 
