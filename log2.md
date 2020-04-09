@@ -1,4 +1,22 @@
-# 100 Days Of Code - Log
+# 100 Days Of Code - Log #2 (reboot)
+
+I started the 100DaysOfCode challenge at the beginning of 2020, and I made it more than halfway through.  Then I got sick, and shortly afterwards, the coronavirus crisis began and things got hectic.  It has been a struggle to find time for coding while also trying to "home school" the kids.  In any case, I am going to attempt a reboot of this challenge, as I am finally getting accustomed to this "new normal".
+  
+Disclaimer: Although I appreciate the rules set out for the challenge, I probably will not follow them to the letter.  I plan on doing some of my learning on Treehouse. Most of their lessons involve hands-on coding, but not all. I probably will not post on Twitter every day.  I will try and post completed projects or interesting articles, etc. that I find along the way. I will try to not miss too many days, but at the same time I don't think I want to start over from the beginning again.  So it will be what it will be, and I will do my best.
+
+New (updated) goals for this challenge reboot:
+  
+1. Complete the Responsive Web Design Certification in freecodecamp.org. The only thing I have left is to make a portfolio site, and I would like to attach my finished projects to it.
+  
+2. Complete Skillcrush web development course.  I got 90% done with this course, but I decided I wasn't really interested in learning Ruby.  However, I just want to be able to check this off as something I completed.
+  
+3. Continue learning Python and make a couple of projects.
+  
+4. Refresh JavaScript skills and add more advanced skills like React.
+  
+  
+  
+*Original (New Year's) goals for this challenge:
 
 Hello, welcome to my 100 Days of Code log.  My goals are to practice what I've learned in various courses I've taken.  I want to finish/refactor projects that I have already started.  I would like also to complete a few portfolio-worthy projects.  As I am a relative beginner, I will be doing some of my practicing on freecodecamp.org.  I believe I have already finished HTML and CSS there and would like to finish the rest of the path.  I want to put my skills into action and gain the confidence that comes with experience.  
 
@@ -9,7 +27,7 @@ Hello, welcome to my 100 Days of Code log.  My goals are to practice what I've l
 2/1/20 - Goals added:
 I want to take part of this time to explore Python.
 
-2/12/20 - I decided it would benefit me to learn Bootstrap.  I think it will make creating navbars much easier.  I might also decide that I need to know Sass, as a lot of the Bootstrap documentation mentions it.  
+2/12/20 - I decided it would benefit me to learn Bootstrap.  I think it will make creating navbars much easier.  I might also decide that I need to know Sass, as a lot of the Bootstrap documentation mentions it.  --Note: I did complete a Bootstrap course in Treehouse.*
 
 
 ### Day 1: March 18, 2020 
