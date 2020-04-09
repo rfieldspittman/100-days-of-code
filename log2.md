@@ -16,18 +16,18 @@ New (updated) goals for this challenge reboot:
   
   
   
-*Original (New Year's) goals for this challenge:
+*Original (New Year's) goals for this challenge:*
 
-Hello, welcome to my 100 Days of Code log.  My goals are to practice what I've learned in various courses I've taken.  I want to finish/refactor projects that I have already started.  I would like also to complete a few portfolio-worthy projects.  As I am a relative beginner, I will be doing some of my practicing on freecodecamp.org.  I believe I have already finished HTML and CSS there and would like to finish the rest of the path.  I want to put my skills into action and gain the confidence that comes with experience.  
+*Hello, welcome to my 100 Days of Code log.  My goals are to practice what I've learned in various courses I've taken.  I want to finish/refactor projects that I have already started.  I would like also to complete a few portfolio-worthy projects.  As I am a relative beginner, I will be doing some of my practicing on freecodecamp.org.  I believe I have already finished HTML and CSS there and would like to finish the rest of the path.  I want to put my skills into action and gain the confidence that comes with experience.*  
 
-1/5/20 - Goals added:  
-1.  After I finish the "Responsive Web Design Certification" in freecodecamp, I would like to start "Front End Libraries Certification."  
-2.  Work on very small projects such as animating part of a web page, creating a form, etc.  
+*1/5/20 - Goals added:*  
+*1.  After I finish the "Responsive Web Design Certification" in freecodecamp, I would like to start "Front End Libraries Certification."*  
+*2.  Work on very small projects such as animating part of a web page, creating a form, etc.*  
 
-2/1/20 - Goals added:
-I want to take part of this time to explore Python.
+*2/1/20 - Goals added:*
+*I want to take part of this time to explore Python.*
 
-2/12/20 - I decided it would benefit me to learn Bootstrap.  I think it will make creating navbars much easier.  I might also decide that I need to know Sass, as a lot of the Bootstrap documentation mentions it.  --Note: I did complete a Bootstrap course in Treehouse.*
+*2/12/20 - I decided it would benefit me to learn Bootstrap.  I think it will make creating navbars much easier.  I might also decide that I need to know Sass, as a lot of the Bootstrap documentation mentions it.  --Note: I did complete a Bootstrap course in Treehouse.*
 
 
 ### Day 1: March 18, 2020 
