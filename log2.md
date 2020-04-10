@@ -33,15 +33,17 @@ New (updated) goals for this challenge reboot:
 ### Day 1: April 9, 2020 
 
 **Today's Progress** 
-
+Working on JavaScript in Treehouse.  
 **Thoughts** 
-
+This is mostly review, so I am trying to cover the material quickly. However, I really like the way Treehouse teaches, and I think I will soon get to a place where I will be able to fill in some of the gaps I have. I have gone through several courses which taught JavaScrip in general, but they didn't seem to tell you how all that information applies spcifically to building web pages. It's like it was up to you to connect the dots, but I never got that comfortable with it. These Treehouse lessons will be my fallback, until I get motivated to work on projects again. Probably next week I'd like to start on the portfolio project in freecodecamp, but right now I am just happy to be learning again.
 **Link to work**
 
 ### Day 2: April 10, 2020 
 
 **Today's Progress** 
-
+Working on JavaScript in Treehouse.  
+"Way to go, Rebecca.
+You just earned the Hello, JavaScript! badge!"
 **Thoughts** 
 
 **Link to work**
