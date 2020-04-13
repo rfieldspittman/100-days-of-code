@@ -51,7 +51,9 @@ You just earned the Hello, JavaScript! badge!"
 ### Day 3: April 11, 2020 
 
 **Today's Progress** 
-
+Working on JavaScript in Treehouse. 
+"Way to go, Rebecca.
+You have completed Storing and Tracking Information with Variables."
 **Thoughts** 
 
 **Link to work**
