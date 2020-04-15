@@ -61,7 +61,8 @@ You have completed Storing and Tracking Information with Variables."
 ### Day 4: April 12, 2020 
 
 **Today's Progress** 
-
+Working on JavaScript in Treehouse. 
+Refreshing my memory on strings.
 **Thoughts** 
 
 **Link to work**
