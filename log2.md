@@ -111,6 +111,7 @@ Missed a day :(
 ### Day 9: April 17, 2020 
 
 **Today's Progress** 
+Reviewed lessons on conditional statements and comparison operators.
 
 **Thoughts** 
 
