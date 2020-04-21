@@ -120,6 +120,7 @@ Reviewed lessons on conditional statements and comparison operators.
 ### Day 10: April 18, 2020 
 
 **Today's Progress** 
+Did a lesson on Booeans.
 
 **Thoughts** 
 
@@ -128,6 +129,7 @@ Reviewed lessons on conditional statements and comparison operators.
 ### Day 11: April 19, 2020 
 
 **Today's Progress** 
+Looking at requirements for the freecodecamp portfolio page project.
 
 **Thoughts** 
 
@@ -136,6 +138,7 @@ Reviewed lessons on conditional statements and comparison operators.
 ### Day 12: April 20, 2020 
 
 **Today's Progress** 
+Working on portfolio page project.
 
 **Thoughts** 
 
