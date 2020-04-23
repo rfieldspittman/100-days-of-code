@@ -120,7 +120,7 @@ Reviewed lessons on conditional statements and comparison operators.
 ### Day 10: April 18, 2020 
 
 **Today's Progress** 
-Did a lesson on Booeans.
+Did a lesson on Booleans (Treehouse).
 
 **Thoughts** 
 
@@ -138,7 +138,7 @@ Looking at requirements for the freecodecamp portfolio page project.
 ### Day 12: April 20, 2020 
 
 **Today's Progress** 
-Working on portfolio page project.
+Started working on portfolio page project.
 
 **Thoughts** 
 
@@ -147,6 +147,7 @@ Working on portfolio page project.
 ### Day 13: April 21, 2020 
 
 **Today's Progress** 
+Reviewed else/if and comments (Treehouse).
 
 **Thoughts** 
 
@@ -155,7 +156,7 @@ Working on portfolio page project.
 ### Day 14: April 22, 2020 
 
 **Today's Progress** 
-
+"You have completed Making Decisions in Your Code with Conditional Statements."
 **Thoughts** 
 
 **Link to work**
