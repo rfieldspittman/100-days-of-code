@@ -157,6 +157,7 @@ Reviewed else/if and comments (Treehouse).
 
 **Today's Progress** 
 "You have completed Making Decisions in Your Code with Conditional Statements."
+
 **Thoughts** 
 
 **Link to work**
@@ -164,6 +165,7 @@ Reviewed else/if and comments (Treehouse).
 ### Day 15: April 23, 2020 
 
 **Today's Progress** 
+Working with JavaScript numbers. Learned about unary plus operator.
 
 **Thoughts** 
 
@@ -172,6 +174,7 @@ Reviewed else/if and comments (Treehouse).
 ### Day 16: April 24, 2020 
 
 **Today's Progress** 
+"You have completed Working with Numbers." Started section about the Math object, learned about generating random numbers.
 
 **Thoughts** 
 
