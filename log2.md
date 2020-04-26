@@ -183,6 +183,7 @@ Working with JavaScript numbers. Learned about unary plus operator.
 ### Day 17: April 25, 2020 
 
 **Today's Progress** 
+Did a Treehouse lesson about Math object and generating random numbers (Math.floor * number then add 1).
 
 **Thoughts** 
 
