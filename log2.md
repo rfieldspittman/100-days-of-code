@@ -102,7 +102,7 @@ Missed a day :(
 ### Day 8: April 16, 2020 
 
 **Today's Progress** 
-"You have completed Working with Strings."
+Treehouse--"You have completed Working with Strings."
 
 **Thoughts** 
 
@@ -156,7 +156,7 @@ Reviewed else/if and comments (Treehouse).
 ### Day 14: April 22, 2020 
 
 **Today's Progress** 
-"You have completed Making Decisions in Your Code with Conditional Statements."
+Treehouse--"You have completed Making Decisions in Your Code with Conditional Statements."
 
 **Thoughts** 
 
@@ -174,7 +174,7 @@ Working with JavaScript numbers. Learned about unary plus operator.
 ### Day 16: April 24, 2020 
 
 **Today's Progress** 
-"You have completed Working with Numbers." Started section about the Math object, learned about generating random numbers.
+Treehouse--"You have completed Working with Numbers." Started section about the Math object, learned about generating random numbers.
 
 **Thoughts** 
 
@@ -192,6 +192,7 @@ Did a Treehouse lesson about Math object and generating random numbers (Math.flo
 ### Day 18: April 26, 2020 
 
 **Today's Progress** 
+Treehouse--"You have completed JavaScript Numbers!"
 
 **Thoughts** 
 
