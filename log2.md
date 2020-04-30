@@ -201,6 +201,7 @@ Treehouse--"You have completed JavaScript Numbers!"
 ### Day 19: April 27, 2020 
 
 **Today's Progress** 
+Started section on functions in TreeHouse.
 
 **Thoughts** 
 
@@ -209,6 +210,7 @@ Treehouse--"You have completed JavaScript Numbers!"
 ### Day 20: April 28, 2020 
 
 **Today's Progress** 
+Still working on functions.
 
 **Thoughts** 
 
@@ -217,6 +219,8 @@ Treehouse--"You have completed JavaScript Numbers!"
 ### Day 21: April 29, 2020 
 
 **Today's Progress** 
+"Way to go, Rebecca.
+You just earned the Create Reusable Code with Functions badge!"
 
 **Thoughts** 
 
@@ -225,6 +229,7 @@ Treehouse--"You have completed JavaScript Numbers!"
 ### Day 22: April 30, 2020 
 
 **Today's Progress** 
+Started Treehouse section about passing arguments into functions.
 
 **Thoughts** 
 
