@@ -238,8 +238,12 @@ Started Treehouse section about passing arguments into functions.
 ### Day 23: May 1, 2020 
 
 **Today's Progress** 
+I am taking a small detour to try out an Intro to Data Analysis course. First lesson was pretty easy.
+"You just earned the Introducing Spreadsheets badge!
+Introducing Spreadsheets"
 
 **Thoughts** 
+I am thinking I should try to work on projects on the weekends, since I have more time.  I'm not sure if I'll start this weekend or not...still need to make the portfolio project for freecodecamp.
 
 **Link to work**
 
