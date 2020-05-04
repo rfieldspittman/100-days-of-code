@@ -250,6 +250,8 @@ I am thinking I should try to work on projects on the weekends, since I have mor
 ### Day 24: May 2, 2020 
 
 **Today's Progress** 
+Still working on the Data Analysis intro lesson.
+"You just earned the Getting Started With Spreadsheets badge!"
 
 **Thoughts** 
 
@@ -258,8 +260,10 @@ I am thinking I should try to work on projects on the weekends, since I have mor
 ### Day 25: May 3, 2020 
 
 **Today's Progress** 
+Still working on spreadsheet basics (intro to Data Analysis).
 
 **Thoughts** 
+I feel like I will definitely use some of the functions covered in these lessons. I knew some Excel functions like SUM from my office work days, but now that I know some programming basics I look at it from a different perspective. 
 
 **Link to work**
 
