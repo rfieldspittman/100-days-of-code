@@ -270,6 +270,7 @@ I feel like I will definitely use some of the functions covered in these lessons
 ### Day 26: May 4, 2020 
 
 **Today's Progress** 
+"You just earned the Spreadsheet Functions & Shortcuts badge!"
 
 **Thoughts** 
 
