@@ -271,6 +271,7 @@ I feel like I will definitely use some of the functions covered in these lessons
 
 **Today's Progress** 
 "You just earned the Spreadsheet Functions & Shortcuts badge!"
+"You just earned the Spreadsheet Best Practices badge!"
 
 **Thoughts** 
 
