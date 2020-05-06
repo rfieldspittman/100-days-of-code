@@ -280,8 +280,10 @@ I feel like I will definitely use some of the functions covered in these lessons
 ### Day 27: May 5, 2020 
 
 **Today's Progress** 
+"You have completed Spreadsheet Basics!"
 
 **Thoughts** 
+Back to JavaScript tomorrow...
 
 **Link to work**
 
