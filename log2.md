@@ -290,6 +290,7 @@ Back to JavaScript tomorrow...
 ### Day 28: May 6, 2020 
 
 **Today's Progress** 
+Treehouse/JavaScript - Learning about parameters and arguments in a function.
 
 **Thoughts** 
 
@@ -298,6 +299,7 @@ Back to JavaScript tomorrow...
 ### Day 29: May 7, 2020 
 
 **Today's Progress** 
+Still working on functions.
 
 **Thoughts** 
 
@@ -306,6 +308,8 @@ Back to JavaScript tomorrow...
 ### Day 30: May 8, 2020 
 
 **Today's Progress** 
+Learned about scope, hoisting, and declaration vs. expression of a function.
+"You have completed Pass Information Into Functions."
 
 **Thoughts** 
 
