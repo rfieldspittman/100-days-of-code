@@ -318,6 +318,7 @@ Learned about scope, hoisting, and declaration vs. expression of a function.
 ### Day 31: May 9, 2020 
 
 **Today's Progress** 
+Working on arrow functions.
 
 **Thoughts** 
 
@@ -326,6 +327,8 @@ Learned about scope, hoisting, and declaration vs. expression of a function.
 ### Day 32: May 10, 2020 
 
 **Today's Progress** 
+Learned about default parameter values, and how to "throw" custom JS errors.
+"You have completed Arrow Functions."
 
 **Thoughts** 
 
