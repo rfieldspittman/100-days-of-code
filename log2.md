@@ -337,6 +337,7 @@ Learned about default parameter values, and how to "throw" custom JS errors.
 ### Day 33: May 11, 2020 
 
 **Today's Progress** 
+Missed a day :(
 
 **Thoughts** 
 
@@ -345,6 +346,7 @@ Learned about default parameter values, and how to "throw" custom JS errors.
 ### Day 34: May 12, 2020 
 
 **Today's Progress** 
+Treehouse - working on loops...
 
 **Thoughts** 
 
@@ -353,6 +355,7 @@ Learned about default parameter values, and how to "throw" custom JS errors.
 ### Day 35: May 13, 2020 
 
 **Today's Progress** 
+Treehouse - working on loops...
 
 **Thoughts** 
 
@@ -361,6 +364,7 @@ Learned about default parameter values, and how to "throw" custom JS errors.
 ### Day 36: May 14, 2020 
 
 **Today's Progress** 
+Treehouse - working on loops...
 
 **Thoughts** 
 
