@@ -382,6 +382,7 @@ Treehouse - STILL working on loops...
 ### Day 38: May 16, 2020 
 
 **Today's Progress** 
+Treehouse - STILL working on loops...
 
 **Thoughts** 
 
@@ -390,6 +391,8 @@ Treehouse - STILL working on loops...
 ### Day 39: May 17, 2020 
 
 **Today's Progress** 
+Treehouse - "You have completed Simplify Repetitive Tasks with Loops."
+Started section on arrays.
 
 **Thoughts** 
 
