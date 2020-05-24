@@ -401,6 +401,7 @@ Started section on arrays.
 ### Day 40: May 18, 2020 
 
 **Today's Progress** 
+Treehouse - Working on arrays....
 
 **Thoughts** 
 
@@ -409,6 +410,7 @@ Started section on arrays.
 ### Day 41: May 19, 2020 
 
 **Today's Progress** 
+Treehouse - Working on arrays....
 
 **Thoughts** 
 
@@ -417,6 +419,7 @@ Started section on arrays.
 ### Day 42: May 20, 2020 
 
 **Today's Progress** 
+Treehouse - Working on arrays....
 
 **Thoughts** 
 
@@ -425,6 +428,7 @@ Started section on arrays.
 ### Day 43: May 21, 2020 
 
 **Today's Progress** 
+Missed a day :(
 
 **Thoughts** 
 
@@ -433,6 +437,7 @@ Started section on arrays.
 ### Day 44: May 22, 2020 
 
 **Today's Progress** 
+Missed a day :(
 
 **Thoughts** 
 
@@ -441,8 +446,10 @@ Started section on arrays.
 ### Day 45: May 23, 2020 
 
 **Today's Progress** 
+Working on arrays...
 
 **Thoughts** 
+I hope to get more accomplished now that the "home" schooling is done. So glad it's officially summer break.
 
 **Link to work**
 
