@@ -461,6 +461,7 @@ Note: I was excitied to get back on track and instead got waaaay off track. But 
 ### Day 46: June 7, 2020 
 
 **Today's Progress** 
+Treehouse - learned about 2-dimensional arrays.
 
 **Thoughts** 
 
