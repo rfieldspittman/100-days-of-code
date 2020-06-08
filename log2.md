@@ -453,7 +453,12 @@ I hope to get more accomplished now that the "home" schooling is done. So glad i
 
 **Link to work**
 
-### Day 46: May 24, 2020 
+### May 24, 2020 - June 6, 2020 
+
+Note: I was excitied to get back on track and instead got waaaay off track. But I am trying not to be too hard on myself, these are weird times. I took a few days to visit my mom, who doesn't have internet, and just didn't get back to programming for like a week. And as I said, I am not restarting this thing again, so instead I will start counting at day 46.
+
+
+### Day 46: June 7, 2020 
 
 **Today's Progress** 
 
@@ -461,7 +466,7 @@ I hope to get more accomplished now that the "home" schooling is done. So glad i
 
 **Link to work**
 
-### Day 47: May 25, 2020 
+### Day 47: June 8, 2020 
 
 **Today's Progress** 
 
@@ -469,7 +474,7 @@ I hope to get more accomplished now that the "home" schooling is done. So glad i
 
 **Link to work**
 
-### Day 48: May 26, 2020 
+### Day 48: June 9, 2020 
 
 **Today's Progress** 
 
@@ -477,7 +482,7 @@ I hope to get more accomplished now that the "home" schooling is done. So glad i
 
 **Link to work**
 
-### Day 49: May 27, 2020 
+### Day 49: June 10, 2020 
 
 **Today's Progress** 
 
@@ -485,7 +490,7 @@ I hope to get more accomplished now that the "home" schooling is done. So glad i
 
 **Link to work**
 
-### Day 50: May 28, 2020 
+### Day 50: June 11, 2020 
 
 **Today's Progress** 
 
@@ -493,7 +498,7 @@ I hope to get more accomplished now that the "home" schooling is done. So glad i
 
 **Link to work**
 
-### Day 51: May 29, 2020 
+### Day 51: June 12, 2020 
 
 **Today's Progress** 
 
@@ -501,7 +506,7 @@ I hope to get more accomplished now that the "home" schooling is done. So glad i
 
 **Link to work**
 
-### Day 52: May 30, 2020 
+### Day 52: June 13, 2020 
 
 **Today's Progress** 
 
@@ -509,7 +514,7 @@ I hope to get more accomplished now that the "home" schooling is done. So glad i
 
 **Link to work**
 
-### Day 53: May 31, 2020 
+### Day 53: June 14, 2020 
 
 **Today's Progress** 
 
@@ -517,7 +522,7 @@ I hope to get more accomplished now that the "home" schooling is done. So glad i
 
 **Link to work**
 
-### Day 54: June 1, 2020 
+### Day 54: June 15, 2020 
 
 **Today's Progress** 
 
@@ -525,7 +530,7 @@ I hope to get more accomplished now that the "home" schooling is done. So glad i
 
 **Link to work**
 
-### Day 55: June 2, 2020 
+### Day 55: June 16, 2020 
 
 **Today's Progress** 
 
@@ -533,7 +538,7 @@ I hope to get more accomplished now that the "home" schooling is done. So glad i
 
 **Link to work**
 
-### Day 56: June 3, 2020 
+### Day 56: June 17, 2020 
 
 **Today's Progress** 
 
@@ -541,7 +546,7 @@ I hope to get more accomplished now that the "home" schooling is done. So glad i
 
 **Link to work**
 
-### Day 57: June 4, 2020 
+### Day 57: June 18, 2020 
 
 **Today's Progress** 
 
@@ -549,7 +554,7 @@ I hope to get more accomplished now that the "home" schooling is done. So glad i
 
 **Link to work**
 
-### Day 58: June 5, 2020 
+### Day 58: June 19, 2020 
 
 **Today's Progress** 
 
@@ -557,7 +562,7 @@ I hope to get more accomplished now that the "home" schooling is done. So glad i
 
 **Link to work**
 
-### Day 59: June 6, 2020 
+### Day 59: June 20, 2020 
 
 **Today's Progress** 
 
@@ -565,7 +570,7 @@ I hope to get more accomplished now that the "home" schooling is done. So glad i
 
 **Link to work**
 
-### Day 60: June 7, 2020 
+### Day 60: June 21, 2020 
 
 **Today's Progress** 
 
@@ -573,7 +578,7 @@ I hope to get more accomplished now that the "home" schooling is done. So glad i
 
 **Link to work**
 
-### Day 61: June 8, 2020 
+### Day 61: June 22, 2020 
 
 **Today's Progress** 
 
@@ -581,7 +586,7 @@ I hope to get more accomplished now that the "home" schooling is done. So glad i
 
 **Link to work**
 
-### Day 62: June 9, 2020 
+### Day 62: June 23, 2020 
 
 **Today's Progress** 
 
@@ -589,7 +594,7 @@ I hope to get more accomplished now that the "home" schooling is done. So glad i
 
 **Link to work**
 
-### Day 63: June 10, 2020 
+### Day 63: June 24, 2020 
 
 **Today's Progress** 
 
@@ -597,7 +602,7 @@ I hope to get more accomplished now that the "home" schooling is done. So glad i
 
 **Link to work**
 
-### Day 64: June 11, 2020 
+### Day 64: June 25, 2020 
 
 **Today's Progress** 
 
@@ -605,7 +610,7 @@ I hope to get more accomplished now that the "home" schooling is done. So glad i
 
 **Link to work**
 
-### Day 65: June 12, 2020 
+### Day 65: June 26, 2020 
 
 **Today's Progress** 
 
@@ -613,7 +618,7 @@ I hope to get more accomplished now that the "home" schooling is done. So glad i
 
 **Link to work**
 
-### Day 66: June 13, 2020 
+### Day 66: June 27, 2020 
 
 **Today's Progress** 
 
@@ -621,7 +626,7 @@ I hope to get more accomplished now that the "home" schooling is done. So glad i
 
 **Link to work**
 
-### Day 67: June 14, 2020 
+### Day 67: June 28, 2020 
 
 **Today's Progress** 
 
@@ -629,7 +634,7 @@ I hope to get more accomplished now that the "home" schooling is done. So glad i
 
 **Link to work**
 
-### Day 68: June 15, 2020 
+### Day 68: June 29, 2020 
 
 **Today's Progress** 
 
@@ -637,7 +642,7 @@ I hope to get more accomplished now that the "home" schooling is done. So glad i
 
 **Link to work**
 
-### Day 69: June 16, 2020 
+### Day 69: June 30, 2020 
 
 **Today's Progress** 
 
@@ -645,7 +650,7 @@ I hope to get more accomplished now that the "home" schooling is done. So glad i
 
 **Link to work**
 
-### Day 70: June 17, 2020 
+### Day 70: July 1, 2020 
 
 **Today's Progress** 
 
@@ -653,7 +658,7 @@ I hope to get more accomplished now that the "home" schooling is done. So glad i
 
 **Link to work**
 
-### Day 71: June 18, 2020 
+### Day 71: July 2, 2020 
 
 **Today's Progress** 
 
@@ -661,7 +666,7 @@ I hope to get more accomplished now that the "home" schooling is done. So glad i
 
 **Link to work**
 
-### Day 72: June 19, 2020 
+### Day 72: July 3, 2020 
 
 **Today's Progress** 
 
@@ -669,7 +674,7 @@ I hope to get more accomplished now that the "home" schooling is done. So glad i
 
 **Link to work**
 
-### Day 73: June 20, 2020 
+### Day 73: July 4, 2020 
 
 **Today's Progress** 
 
@@ -677,7 +682,7 @@ I hope to get more accomplished now that the "home" schooling is done. So glad i
 
 **Link to work**
 
-### Day 74: June 21, 2020 
+### Day 74: July 5, 2020 
 
 **Today's Progress** 
 
@@ -685,7 +690,7 @@ I hope to get more accomplished now that the "home" schooling is done. So glad i
 
 **Link to work**
 
-### Day 75: June 22, 2020 
+### Day 75: July 6, 2020 
 
 **Today's Progress** 
 
@@ -693,7 +698,7 @@ I hope to get more accomplished now that the "home" schooling is done. So glad i
 
 **Link to work**
 
-### Day 76: June 23, 2020 
+### Day 76: July 7, 2020 
 
 **Today's Progress** 
 
@@ -701,7 +706,7 @@ I hope to get more accomplished now that the "home" schooling is done. So glad i
 
 **Link to work**
 
-### Day 77: June 24, 2020 
+### Day 77: July 8, 2020 
 
 **Today's Progress** 
 
@@ -709,7 +714,7 @@ I hope to get more accomplished now that the "home" schooling is done. So glad i
 
 **Link to work**
 
-### Day 78: June 25, 2020 
+### Day 78: July 9, 2020 
 
 **Today's Progress** 
 
@@ -717,7 +722,7 @@ I hope to get more accomplished now that the "home" schooling is done. So glad i
 
 **Link to work**
 
-### Day 79: June 26, 2020 
+### Day 79: July 10, 2020 
 
 **Today's Progress** 
 
@@ -725,7 +730,7 @@ I hope to get more accomplished now that the "home" schooling is done. So glad i
 
 **Link to work**
 
-### Day 80: June 27, 2020 
+### Day 80: July 11, 2020 
 
 **Today's Progress** 
 
@@ -733,7 +738,7 @@ I hope to get more accomplished now that the "home" schooling is done. So glad i
 
 **Link to work**
 
-### Day 81: June 28, 2020 
+### Day 81: July 12, 2020 
 
 **Today's Progress** 
 
@@ -741,7 +746,7 @@ I hope to get more accomplished now that the "home" schooling is done. So glad i
 
 **Link to work**
 
-### Day 82: June 29, 2020 
+### Day 82: July 13, 2020 
 
 **Today's Progress** 
 
@@ -749,7 +754,7 @@ I hope to get more accomplished now that the "home" schooling is done. So glad i
 
 **Link to work**
 
-### Day 83: June 30, 2020 
+### Day 83: July 14, 2020 
 
 **Today's Progress** 
 
@@ -757,7 +762,7 @@ I hope to get more accomplished now that the "home" schooling is done. So glad i
 
 **Link to work**
 
-### Day 84: July 1, 2020 
+### Day 84: July 15, 2020 
 
 **Today's Progress** 
 
@@ -765,7 +770,7 @@ I hope to get more accomplished now that the "home" schooling is done. So glad i
 
 **Link to work**
 
-### Day 85: July 2, 2020 
+### Day 85: July 16, 2020 
 
 **Today's Progress** 
 
@@ -773,7 +778,7 @@ I hope to get more accomplished now that the "home" schooling is done. So glad i
 
 **Link to work**
 
-### Day 86: July 3, 2020 
+### Day 86: July 17, 2020 
 
 **Today's Progress** 
 
@@ -781,7 +786,7 @@ I hope to get more accomplished now that the "home" schooling is done. So glad i
 
 **Link to work**
 
-### Day 87: July 4, 2020 
+### Day 87: July 18, 2020 
 
 **Today's Progress** 
 
@@ -789,7 +794,7 @@ I hope to get more accomplished now that the "home" schooling is done. So glad i
 
 **Link to work**
 
-### Day 88: July 5, 2020 
+### Day 88: July 19, 2020 
 
 **Today's Progress** 
 
@@ -797,7 +802,7 @@ I hope to get more accomplished now that the "home" schooling is done. So glad i
 
 **Link to work**
 
-### Day 89: July 6, 2020 
+### Day 89: July 20, 2020 
 
 **Today's Progress** 
 
@@ -805,7 +810,7 @@ I hope to get more accomplished now that the "home" schooling is done. So glad i
 
 **Link to work**
 
-### Day 90: July 7, 2020 
+### Day 90: July 21, 2020 
 
 **Today's Progress** 
 
@@ -813,7 +818,7 @@ I hope to get more accomplished now that the "home" schooling is done. So glad i
 
 **Link to work**
 
-### Day 91: July 8, 2020 
+### Day 91: July 22, 2020 
 
 **Today's Progress** 
 
@@ -821,7 +826,7 @@ I hope to get more accomplished now that the "home" schooling is done. So glad i
 
 **Link to work**
 
-### Day 92: July 9, 2020 
+### Day 92: July 23, 2020 
 
 **Today's Progress** 
 
@@ -829,7 +834,7 @@ I hope to get more accomplished now that the "home" schooling is done. So glad i
 
 **Link to work**
 
-### Day 93: July 10, 2020 
+### Day 93: July 24, 2020 
 
 **Today's Progress** 
 
@@ -837,7 +842,7 @@ I hope to get more accomplished now that the "home" schooling is done. So glad i
 
 **Link to work**
 
-### Day 94: July 11, 2020 
+### Day 94: July 25, 2020 
 
 **Today's Progress** 
 
@@ -845,7 +850,7 @@ I hope to get more accomplished now that the "home" schooling is done. So glad i
 
 **Link to work**
 
-### Day 95: July 12, 2020 
+### Day 95: July 26, 2020 
 
 **Today's Progress** 
 
@@ -853,7 +858,7 @@ I hope to get more accomplished now that the "home" schooling is done. So glad i
 
 **Link to work**
 
-### Day 96: July 13, 2020 
+### Day 96: July 27, 2020 
 
 **Today's Progress** 
 
@@ -861,7 +866,7 @@ I hope to get more accomplished now that the "home" schooling is done. So glad i
 
 **Link to work**
 
-### Day 97: July 14, 2020 
+### Day 97: July 28, 2020 
 
 **Today's Progress** 
 
@@ -869,7 +874,7 @@ I hope to get more accomplished now that the "home" schooling is done. So glad i
 
 **Link to work**
 
-### Day 98: July 15, 2020 
+### Day 98: July 29, 2020 
 
 **Today's Progress** 
 
@@ -877,7 +882,7 @@ I hope to get more accomplished now that the "home" schooling is done. So glad i
 
 **Link to work**
 
-### Day 99: July 16, 2020 
+### Day 99: July 30, 2020 
 
 **Today's Progress** 
 
@@ -885,7 +890,7 @@ I hope to get more accomplished now that the "home" schooling is done. So glad i
 
 **Link to work**
 
-### Day 100: July 17, 2020 
+### Day 100: July 31, 2020 
 
 **Today's Progress** 
 
