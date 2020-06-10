@@ -470,6 +470,7 @@ Treehouse - learned about 2-dimensional arrays.
 ### Day 47: June 8, 2020 
 
 **Today's Progress** 
+Treehouse - "You have completed Tracking Multiple Items with Arrays"
 
 **Thoughts** 
 
@@ -478,6 +479,7 @@ Treehouse - learned about 2-dimensional arrays.
 ### Day 48: June 9, 2020 
 
 **Today's Progress** 
+Started Treehouse secion about objects.
 
 **Thoughts** 
 
