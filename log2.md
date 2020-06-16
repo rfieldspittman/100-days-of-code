@@ -515,6 +515,7 @@ Accessing object properties
 ### Day 52: June 13, 2020 
 
 **Today's Progress** 
+nothing :(
 
 **Thoughts** 
 
@@ -523,6 +524,7 @@ Accessing object properties
 ### Day 53: June 14, 2020 
 
 **Today's Progress** 
+nothing :(
 
 **Thoughts** 
 
@@ -531,6 +533,7 @@ Accessing object properties
 ### Day 54: June 15, 2020 
 
 **Today's Progress** 
+learned about for..in loops (only for objects)
 
 **Thoughts** 
 
