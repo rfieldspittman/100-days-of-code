@@ -488,6 +488,7 @@ Started Treehouse secion about objects.
 ### Day 49: June 10, 2020 
 
 **Today's Progress** 
+Creating Javascript objects
 
 **Thoughts** 
 
@@ -496,6 +497,7 @@ Started Treehouse secion about objects.
 ### Day 50: June 11, 2020 
 
 **Today's Progress** 
+Adding propertiesto objects
 
 **Thoughts** 
 
@@ -504,6 +506,7 @@ Started Treehouse secion about objects.
 ### Day 51: June 12, 2020 
 
 **Today's Progress** 
+Accessing object properties
 
 **Thoughts** 
 
