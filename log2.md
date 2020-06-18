@@ -542,12 +542,14 @@ learned about for..in loops (only for objects)
 ### Day 55: June 16, 2020 
 
 **Today's Progress** 
+nothing :(
 
 **Thoughts** 
 
 **Link to work**
 
 ### Day 56: June 17, 2020 
+Finished the lesson and exercises about for..in loops
 
 **Today's Progress** 
 
