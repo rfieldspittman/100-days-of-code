@@ -656,6 +656,7 @@ Finished the lesson and exercises about for..in loops
 ### Day 69: June 30, 2020 
 
 **Today's Progress** 
+Treehouse - JavaScript and the DOM - "You just earned the The Browser Environment badge!"
 
 **Thoughts** 
 
