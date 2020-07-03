@@ -673,6 +673,8 @@ Treehouse - JavaScript and the DOM - "You just earned the The Browser Environmen
 ### Day 71: July 2, 2020 
 
 **Today's Progress** 
+I decided to take a detour and learn a little bit about design.
+"You just earned the Elements of Design badge!"
 
 **Thoughts** 
 
