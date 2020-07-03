@@ -675,6 +675,7 @@ Treehouse - JavaScript and the DOM - "You just earned the The Browser Environmen
 **Today's Progress** 
 I decided to take a detour and learn a little bit about design.
 "You just earned the Elements of Design badge!"
+"You have completed Visual Design Foundations!"
 
 **Thoughts** 
 
