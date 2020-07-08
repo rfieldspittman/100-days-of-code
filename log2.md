@@ -716,6 +716,10 @@ I decided to take a detour and learn a little bit about design.
 ### Day 76: July 7, 2020 
 
 **Today's Progress** 
+I switched to the Data Analysis track, which is pretty short and something I am interested in. It has been hard to stay focused, and then I was traveling over the long weekend. But not giving up. :)
+
+Introducing Data Analysis: "Way to go, Rebecca.
+You just earned the Introducing Data Analysis badge!"
 
 **Thoughts** 
 
