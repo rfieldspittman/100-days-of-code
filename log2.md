@@ -728,6 +728,7 @@ You just earned the Introducing Data Analysis badge!"
 ### Day 77: July 8, 2020 
 
 **Today's Progress** 
+Working on data analysis basics
 
 **Thoughts** 
 
@@ -736,6 +737,7 @@ You just earned the Introducing Data Analysis badge!"
 ### Day 78: July 9, 2020 
 
 **Today's Progress** 
+Working on data analysis basics
 
 **Thoughts** 
 
@@ -744,6 +746,9 @@ You just earned the Introducing Data Analysis badge!"
 ### Day 79: July 10, 2020 
 
 **Today's Progress** 
+"You just earned the Getting to Know Your Data badge!
+Getting to Know Your Data"
+
 
 **Thoughts** 
 
