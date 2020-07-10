@@ -748,7 +748,7 @@ Working on data analysis basics
 **Today's Progress** 
 "You just earned the Getting to Know Your Data badge!
 Getting to Know Your Data"
-
+"You have completed Data Analysis Basics!"
 
 **Thoughts** 
 
