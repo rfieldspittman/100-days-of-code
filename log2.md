@@ -773,6 +773,8 @@ Getting to Know Your Data"
 ### Day 82: July 13, 2020 
 
 **Today's Progress** 
+"You just earned the Simplify Repetitive Tasks with Loops badge!"
+Note: The loops and arrays section was updated since I started with Treehouse. So I am just trying to move through these quickly to mark them as done. (I am back to working on JavaScript.) 
 
 **Thoughts** 
 
