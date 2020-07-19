@@ -560,6 +560,7 @@ Finished the lesson and exercises about for..in loops
 ### Day 57: June 18, 2020 
 
 **Today's Progress** 
+"You have completed Working with 'for' Loops."
 
 **Thoughts** 
 
