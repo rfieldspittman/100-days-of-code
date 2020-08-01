@@ -920,6 +920,7 @@ Note: The loops and arrays section was updated since I started with Treehouse. S
 ### Day 100: July 31, 2020 
 
 **Today's Progress** 
+I didn't realize today would be day 100 :) I know I missed several days. I've been watching the lectures from CS50 2019, and reading up on SEO from a free site I found. I am also starting to work on my portfolio project (finally), so I have a place to show off my projects. Today I did a lesson on Treehouse. I have to loop over some lessons again because they have been updated. Then I can finally move on to React and some other things I've just never quite gotten to before. If anyone ever reads this, thanks for following along. 2020 has been a really weird year, and I have found it hard to stay motivated with all that is going on. I am back to feeling a bit excited again, and am wondering if I know enough to maybe teach kids or someone what I have learned. I am hopeful for the future, in any case, and will continue in my learning. Cheers.
 
 **Thoughts** 
 
